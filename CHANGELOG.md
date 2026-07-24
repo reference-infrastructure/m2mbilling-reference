@@ -33,3 +33,7 @@ not feature development.
 - Minor revisions clarify terminology or boundaries.
 - Major versions indicate structural or semantic changes.
 - All changes are documented explicitly.
+
+---
+
+July 2026 — Added llms.txt following LLMS Baseline v2.0 to provide a canonical machine-readable orientation layer for published resources.
