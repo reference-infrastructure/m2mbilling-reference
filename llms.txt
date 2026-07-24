@@ -1,0 +1,19 @@
+# M2MBilling.com
+
+Independent reference project on machine-to-machine billing, usage accounting, and billing reference structures.
+
+## Canonical Resource
+
+- [Home](https://m2mbilling.com/)
+
+## Main Sections
+
+- [Sources](https://m2mbilling.com/sources/)
+
+## Purpose
+
+M2MBilling.com provides an independent reference on machine-to-machine billing, usage accounting, billing models, and related reference structures.
+
+## Repository
+
+- [M2M Billing Reference Repository](https://github.com/reference-infrastructure/m2mbilling-reference)
